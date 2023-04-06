@@ -18,7 +18,7 @@ const Portfolio = () => {
         'BookStore app that allows users to store books and update progress',
       technologies: 'React | Redux | Ruby on Rails',
       link: 'https://melodic-boba-111583.netlify.app/',
-      github: 'https://github.com/Meri-MG/bookstore---react',
+      github: '',
     },
     {
       id: 2,
@@ -28,7 +28,7 @@ const Portfolio = () => {
         'FakeStore app that provides information about available products and their details',
       technologies: 'React | Redux',
       link: 'https://fakestore-metrics.netlify.app/',
-      github: 'https://github.com/Meri-MG/Fakestore---react',
+      github: '',
     },
     {
       id: 3,
@@ -37,7 +37,7 @@ const Portfolio = () => {
       description: 'User friendly app to plan your day and manage tasks',
       technologies: 'JavaScript | Webpack',
       link: 'https://meri-mg.github.io/To-Do-List/dist/',
-      github: 'https://github.com/Meri-MG/To-Do-List',
+      github: '',
     },
   
   ];
