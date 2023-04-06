@@ -25,10 +25,18 @@ const Intro = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>20+ Completed Projects</small>
+              <small>3 Completed Projects</small>
             </article>
           </div>
-          <p>I’ve spent the last several months in a remote environment, working with HTML, CSS, JavaScript, building everything from landing pages to APIs. My experience as a teacher in an international school helped me collaborate with fellow developers from all over the world. Additionally, working with kids isn’t an easy task, however, it has helped me become efficient, productive, and fast even in a very stressful environment, which is an important skill in the tech industry.</p>
+          <p>Hi there! My name is Brian Smith, and I'm a full stack developer based in Nashville, TN. With a strong background in JavaScript, React, CSS, HTML, Bootstrap, SQL, Mongoose, and Java, I'm passionate about creating web applications that deliver seamless user experiences and meet business objectives.
+
+I have a keen eye for detail and a strong problem-solving mindset, which I apply to every project I work on. My experience includes attending two bootcamps, one for JavaFX, SQL, and AWS, and another for MERN stack development, where I honed my skills in building end-to-end web applications. I'm constantly learning and staying up-to-date with the latest industry trends and technologies to improve my skills and deliver high-quality solutions.
+
+Apart from coding, I'm a sports enthusiast and love staying active by working out regularly. I'm also fascinated by the intersection of sports and technology, and I'm always exploring innovative ways to leverage technology in the sports industry. I believe that teamwork, collaboration, and continuous learning are key to success in the fast-paced world of software development.
+
+I'm currently a junior developer and eager to contribute my skills and knowledge to create meaningful and impactful web applications. If you're looking for a motivated and enthusiastic full stack developer with a strong foundation in various technologies, I'd love to connect and discuss how I can add value to your team or project.
+
+Thank you for visiting my portfolio, and I'm excited to embark on new challenges and opportunities in the world of software development! Feel free to reach out to me to discuss potential collaborations or to learn more about my experience and projects. Let's build amazing things together!</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>

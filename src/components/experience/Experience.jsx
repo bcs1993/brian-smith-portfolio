@@ -29,16 +29,13 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Redux</h4>
+              <h4>Bootstraps</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>SCSS</h4>
+              <h4>CSS</h4>
             </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Tailwind</h4>
-            </article>
+           
           </div>
         </div>
         <div className="experience__backend">
@@ -46,25 +43,17 @@ const Experience = () => {
           <div className="experience__content">
           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Ruby</h4>
+              <h4>SQLite</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Ruby on Rails</h4>
+              <h4>Mongoose</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>PostgreSQL</h4>
+              <h4>SQL</h4>
             </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Swagger</h4>
-            </article>
-            <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>RSpec</h4>
-            </article>
-            <article className="experience__details">
+           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Git/GitHub</h4>
             </article>

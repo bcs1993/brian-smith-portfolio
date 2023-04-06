@@ -39,36 +39,7 @@ const Portfolio = () => {
       link: 'https://meri-mg.github.io/To-Do-List/dist/',
       github: 'https://github.com/Meri-MG/To-Do-List',
     },
-    {
-      id: 4,
-      title: 'Shelter',
-      img: IMG3,
-      description:
-        'Fully responsive interactive website built based on Figma design',
-      technologies: 'JavaScript | CSS',
-      link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
-      github: 'https://github.com/Meri-MG/shelter',
-    },
-    {
-      id: 5,
-      title: 'World News',
-      img: IMG5,
-      description:
-        'Fully responsive interactive website built based on Adobe XD design',
-      technologies: 'JavaScript | CSS',
-      link: 'https://meri-mg.github.io/Unilab-world-news/',
-      github: 'https://github.com/Meri-MG/Unilab-world-news',
-    },
-    {
-      id: 6,
-      title: 'Math Resource',
-      img: IMG6,
-      description:
-        'Real-world group project which is still in progress and will provide educational platform for future young developers',
-      technologies: 'JavaScript | Scss | Python',
-      link: 'https://lukinoo.github.io/math-resource/',
-      github: 'https://github.com/lukinoo/math-resource',
-    },
+  
   ];
 
   return (
