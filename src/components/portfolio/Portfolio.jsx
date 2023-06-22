@@ -1,10 +1,10 @@
 import React from 'react';
-import IMG1 from '../../assets/bookstore.png';
-import IMG2 from '../../assets/todo.png';
-import IMG3 from '../../assets/shelter.png';
-import IMG4 from '../../assets/fake.png';
-import IMG5 from '../../assets/news.png';
-import IMG6 from '../../assets/math.png';
+import IMG1 from '../../assets/portfolioSite.png';
+import IMG2 from '../../assets/chatApp.png';
+
+import IMG4 from '../../assets/quizApp.png';
+
+
 
 import './portfolio.css';
 
@@ -12,34 +12,34 @@ const Portfolio = () => {
   const soloProjects = [
     {
       id: 1,
-      title: 'Bookstore',
+      title: 'Portfolio Website',
       img: IMG1,
       description:
-        'BookStore app that allows users to store books and update progress',
+        "A professional-grade portfolio website using the powerful React framework. With a focus on showcasing my skills and achievements, I designed and implemented an innovative and visually-stunning interface that captivates visitors. By employing a variety of front-end technologies, including CSS, HTML, and JavaScript, I created an engaging user experience that seamlessly guides visitors through my portfolio. This portfolio website serves as a testament to my expertise in leveraging the React framework, creating visually appealing designs, and adhering to industry standards to establish a professional and impactful online presence.",
       technologies: 'React | Redux | Ruby on Rails',
-      link: 'https://melodic-boba-111583.netlify.app/',
-      github: '',
+      link: 'https://brian-smith-portfolio.vercel.app/',
+      github: 'https://github.com/bcs1993/brian-smith-portfolio',
     },
     {
       id: 2,
-      title: 'FakeStore',
+      title: 'Quiz App',
       img: IMG4,
       description:
-        'FakeStore app that provides information about available products and their details',
-      technologies: 'React | Redux',
-      link: 'https://fakestore-metrics.netlify.app/',
-      github: '',
+        "A feature-rich quiz application using JavaScript, React, Node.js, Redux, and MongoDB. The application provides a comprehensive quiz platform with a responsive interface. The scalable backend efficiently handles quiz data, user authentication, and database interactions. With Redux for state management and MongoDB for data storage, the application ensures smooth data flow and effective storage of quiz questions and user responses. Advanced features such as multiple choice questions, user authentication, and scoring mechanisms enhance the overall functionality, showcasing my expertise in designing and developing feature-rich applications.",
+      technologies: 'React | Redux | MongoDB | Node.js | Express.js',
+      link: 'https://quiz-app-alpha-ten.vercel.app/',
+      github: 'https://github.com/bcs1993/Quiz-App',
     },
     {
       id: 3,
-      title: 'To-Do-App',
+      title: 'Chat App',
       img: IMG2,
-      description: 'User friendly app to plan your day and manage tasks',
-      technologies: 'JavaScript | Webpack',
+      description: "A user-friendly 2-user chat web application leveraging Socket.IO's event-driven architecture, I implemented real-time communication between users, enabling seamless and instantaneous messaging. To provide an intuitive and visually appealing experience, I designed and developed the front-end user interface using HTML, CSS, and JavaScript. Additionally, I utilized Socket.IO's library to establish a WebSocket connection, ensuring reliable real-time messaging between the server and clients. Through thorough testing and debugging, I ensured the application's robustness and eliminated any issues or bugs, delivering an error-free user experience.",
+      technologies: 'JavaScript | Socket.io | CSS',
       link: 'https://meri-mg.github.io/To-Do-List/dist/',
       github: '',
     },
-  
+
   ];
 
   return (
