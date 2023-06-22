@@ -37,7 +37,7 @@ const Portfolio = () => {
       description: "A user-friendly 2-user chat web application leveraging Socket.IO's event-driven architecture, I implemented real-time communication between users, enabling seamless and instantaneous messaging. To provide an intuitive and visually appealing experience, I designed and developed the front-end user interface using HTML, CSS, and JavaScript. Additionally, I utilized Socket.IO's library to establish a WebSocket connection, ensuring reliable real-time messaging between the server and clients. Through thorough testing and debugging, I ensured the application's robustness and eliminated any issues or bugs, delivering an error-free user experience.",
       technologies: 'JavaScript | Socket.io | CSS',
       link: 'https://meri-mg.github.io/To-Do-List/dist/',
-      github: '',
+      github: 'https://github.com/bcs1993/ChatApp',
     },
 
   ];
